@@ -1,5 +1,8 @@
 import { useEffect } from 'react';
 
+import './App.css';
+import SearchIcom from './search.svg'
+
 // bdceff9f - Api Key
 
 const API_URL = 'http://www.omdbapi.com?apikey=bdceff9f';
